@@ -25,5 +25,14 @@ The dataset contains sales transaction records including product ID, sale date, 
 ## Dashboard Preview
 (<img width="1366" height="768" alt="WESTON INC  DASHBOARD" src="https://github.com/user-attachments/assets/1acd0a83-fcc6-4331-9a7d-7a2deab77b4d" />)
 
+## Business Insights
+
+- North region generated the highest revenue ($1,369,612.51), followed closely by East ($1,259,792.93), West ($1,235,608.93), and South ($1,154,250.86) — showing a fairly balanced spread across regions with North slightly leading.
+- Clothing was the top-performing product category by sales amount ($1,313,474.36), narrowly ahead of Furniture, Electronics, and Food.
+- Retail outperformed the Online sales channel ($2,560,431.30 vs $2,458,833.93), though the gap is relatively small, suggesting both channels are important to overall revenue.
+- David and Eve were the top sales reps by profit generated, contributing $1,501,749.76 and $1,449,081.90 respectively, while Charlie generated the least profit among reps.
+- New customers drove more profit than returning customers ($3,431,280.76 vs $3,056,566.31), suggesting strong customer acquisition performance.
+- Furniture was the most profitable category overall ($1,779,461.16 in profit), despite Clothing leading in raw sales amount — indicating better margins on Furniture sales.
+
 ## Author
 Olukotun Olayemi Elijah
