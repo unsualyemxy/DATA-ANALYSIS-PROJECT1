@@ -23,7 +23,7 @@ This project is an interactive sales dashboard built in Microsoft Excel to analy
 The dataset contains sales transaction records including product ID, sale date, sales rep, region, sales amount, quantity sold, product category, unit cost, unit price, profit, customer type, discount, payment method, and sales channel.
 
 ## Dashboard Preview
-(<img width="1366" height="768" alt="WESTON INC  DASHBOARD" src="https://github.com/user-attachments/assets/1acd0a83-fcc6-4331-9a7d-7a2deab77b4d" />)
+<img width="1366" height="768" alt="WESTON INC  DASHBOARD" src="https://github.com/user-attachments/assets/1acd0a83-fcc6-4331-9a7d-7a2deab77b4d" />
 
 ## Business Insights
 
