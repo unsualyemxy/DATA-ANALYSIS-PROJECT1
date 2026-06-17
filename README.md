@@ -1,7 +1,3 @@
-<img width="1366" height="768" alt="WESTON INC  DASHBOARD" src="https://github.com/user-attachments/assets/a47e2157-f539-4b12-b168-988cd11df1a1" />
-<img width="1366" height="768" alt="WESTON INC  DASHBOARD" src="https://github.com/user-attachments/assets/ee95abe8-d571-4681-a246-6bb47fb01d69" />
-<img width="1366" height="768" alt="WESTON INC  DASHBOARD" src="https://github.com/user-attachments/assets/1f2377a5-9ff3-4c59-8847-95deb6a60481" />
-<img width="1366" height="768" alt="WESTON INC  DASHBOARD" src="https://github.com/user-attachments/assets/87b68cfd-10fc-42c1-851f-e6696c43e843" />
 # Weston Inc. Sales Dashboard – Excel
 
 ## Project Overview
